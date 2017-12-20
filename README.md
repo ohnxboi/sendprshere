@@ -1,2 +1,2 @@
-# sendprshere
-Send PRs's here...!
+# dontsendprshere
+Don't send PRs's here...!
